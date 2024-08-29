@@ -22,10 +22,8 @@
 
    There are two datasets: 
       1) bank-full.csv with all examples, ordered by date (from May 2008 to November 2010).
-      2) bank.csv with 10% of the examples (4521), randomly selected from bank-full.csv.
-   The smallest dataset is provided to test more computationally demanding machine learning algorithms (e.g. SVM).
 
-   The classification goal is to predict if the client will subscribe a term deposit (variable y).
+  The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 5. Number of Instances: 45211 for bank-full.csv (4521 for bank.csv)
 
